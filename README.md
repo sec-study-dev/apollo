@@ -2,7 +2,7 @@
 
 
 ## Dataset
-Our collection of all MEV transactions for 2023 can be found [here](https://drive.google.com/drive/folders/1Mt0DrXo9A1r-Elz08MkaFkTeomG9fC-W?usp=drive_link).
+Our collection of all MEV transactions can be found [here](https://drive.google.com/drive/folders/1Mt0DrXo9A1r-Elz08MkaFkTeomG9fC-W?usp=drive_link).
 
 ## Quick Start
 To open the container, install docker and run:
